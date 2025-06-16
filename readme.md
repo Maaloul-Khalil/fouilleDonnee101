@@ -1,7 +1,6 @@
 # FouilleDonnée 101
 Compétences en FouilleDonnée : Python, pandas, ACP &amp; k-means (algorithmes de base de Sklearn)
-Ce dépôt présente deux mini-analyses réalisées avec Python
-Ces fichiers accompagnent mon CV et servent de **preuve pratique** de mes compétences en manipulation de données, visualisation et algorithmes de base (ACP, clustering).
+Ce dépôt contient deux mini-analyses réalisées en Python, servant de preuve concrète de mes compétences en manipulation de données, visualisation et algorithmes de base
 
 ## Contenu
 
