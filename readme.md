@@ -9,8 +9,6 @@ Ces fichiers accompagnent mon CV et servent de **preuve pratique** de mes compé
 
 - Chargement et traitement d’un jeu de données CSV
 - Nettoyage avec `pandas`
-- Statistiques descriptives
-- Visualisations simples
 
 - [`analyse_ecd.pdf`](https://github.com/Maaloul-Khalil/fouilleDonnee101/blob/main/1-Processus%20ECD%20101.pdf)
 
