@@ -24,6 +24,3 @@ Ces fichiers accompagnent mon CV et servent de **preuve pratique** de mes compé
 - Visualisation des groupes
 
 - [`kmeans_clustering.pdf`](kmeans_clustering.pdf)
-
-
-# fouilleDonnee101
