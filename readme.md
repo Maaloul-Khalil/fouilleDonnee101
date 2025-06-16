@@ -12,7 +12,7 @@ Ces fichiers accompagnent mon CV et servent de **preuve pratique** de mes compé
 - Statistiques descriptives
 - Visualisations simples
 
-- [`analyse_ecd.pdf`](analyse_ecd.pdf)
+- [`analyse_ecd.pdf`](https://github.com/Maaloul-Khalil/fouilleDonnee101/blob/main/1-Processus%20ECD%20101.pdf)
 
 ---
 
@@ -23,4 +23,4 @@ Ces fichiers accompagnent mon CV et servent de **preuve pratique** de mes compé
 - Clustering avec **KMeans**
 - Visualisation des groupes
 
-- [`kmeans_clustering.pdf`](kmeans_clustering.pdf)
+- [`kmeans_clustering.pdf`](https://github.com/Maaloul-Khalil/fouilleDonnee101/blob/main/2-regroupement.pdf)
